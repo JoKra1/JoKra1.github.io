@@ -2,7 +2,6 @@
 title: "About me"
 date: 2023-01-22
 draft: false
-type: about
 tags: ["About"]
 ---
 

@@ -18,6 +18,8 @@ pluralizelisttitles = false
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About me", URL = "/about/", HasChildren = false},
+        {Name = "Curriculum Vitae", URL = "/cv/", HasChildren = false},
+        {Name = "Teaching Experience", URL = "/teaching_exp/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]
 

@@ -1,0 +1,11 @@
+{{ define "main" -}}
+<div class="post">
+  {{ with .Site.GetPage "/teaching_exp/teaching_exp" }}
+    {{ partial "post/info.html" . }}
+    {{ .Content }}
+    {{ partial "post/navigation.html" . }}
+    {{ partial "table_of_contents.html" . }}
+  {{end}}
+</div>
+
+{{- end }}
