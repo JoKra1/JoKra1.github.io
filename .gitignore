@@ -1,2 +1,5 @@
 .DS_Store
 .hugo*
+
+# Build folder
+public/*
