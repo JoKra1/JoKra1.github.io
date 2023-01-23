@@ -6,4 +6,4 @@ series: "Random things"
 tags: ["Hugo"]
 ---
 
-Hello and welcome on my page. This is me trying to work out how everything works. :)
+Hello and welcome on my page. This is me trying to work out how this template and Hugo in general work. :)
