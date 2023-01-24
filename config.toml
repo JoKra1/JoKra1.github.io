@@ -6,7 +6,7 @@ pluralizelisttitles = false
 
 [params]
     brand = "Joshua Krause"                    # name of your site - appears in the sidebar
-    # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
+    brand_image = "/Josh_BW.JPG"    # path to the image shown in the sidebar
     description = "PhD student at the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence."
     dark_mode = false                    # optional - defaults to false
 
