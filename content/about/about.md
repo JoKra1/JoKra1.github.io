@@ -11,7 +11,8 @@ $~$
 $~$
 $~$
 
-I am currently in the first year of my PhD at the [University of Groningen's](https://www.rug.nl)  Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence.
+I am currently in the first year of my PhD at the [University of Groningen's](https://www.rug.nl)  Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence. My supervisors are 
+[Dr. Jacolien van Rij](http://jacolienvanrij.com) and [Prof. Dr. Jelmer P. Borst](https://www.jelmerborst.nl).
 
 My research interests are:
 
