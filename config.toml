@@ -7,7 +7,7 @@ pluralizelisttitles = false
 [params]
     brand = "Joshua Krause"                    # name of your site - appears in the sidebar
     brand_image = "/Josh_BW.JPG"    # path to the image shown in the sidebar
-    description = "PhD student at the Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence."
+    description = "PhD student at the Bernoulli Institute for Artificial Intelligence"
     dark_mode = false                    # optional - defaults to false
 
     # MENU PLACEHOLDER
@@ -18,7 +18,8 @@ pluralizelisttitles = false
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
         {Name = "About me", URL = "/about/", HasChildren = false},
-        {Name = "Curriculum Vitae", URL = "/cv/", HasChildren = false},
+        {Name = "Awards & Prizes", URL = "/awards/", HasChildren = false},
+        {Name = "Education & Skills", URL = "/cv/", HasChildren = false},
         {Name = "Teaching Experience", URL = "/teaching_exp/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
     ]

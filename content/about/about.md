@@ -11,12 +11,12 @@ $~$
 $~$
 $~$
 
-I am currently in the first year of my PhD at the [University of Groningen](https://www.rug.nl).
+I am currently in the first year of my PhD at the [University of Groningen's](https://www.rug.nl)  Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence.
 
 My research interests are:
 
 - **Computational Neuroscience**
-    - Decoding cognitive operations from brain-related signals!
+    - How can cognitive operations be inferred from brain-related signals in a data-driven fashion?
     - Which cognitive operations enable language comprehension & production?
 - **Statistics**
     - In particular GLMMs, GAMMs & Hidden semi-Markov models!
