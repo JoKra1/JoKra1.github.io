@@ -1,0 +1,46 @@
+/*
+ * Overwrites some of the hyde, poole & poison css attributes
+ */
+
+
+ /*
+  * Overall font
+  */
+
+@media (min-width: 58em) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/*
+ * Sidebar
+ */
+
+.sidebar-about p.lead {
+font-size: 1rem;
+margin-bottom: 0.75rem;
+}
+
+/* Sidebar nav */
+.sidebar-nav {
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 18px;
+}
+
+.sidebar-nav li.heading {
+  margin-top: 0.75rem;
+}
+
+/* About section/description */
+.sidebar-about h1 {
+  font-size: 1.25em;
+}
+
+/* Content container */
+@media (min-width: 58em) {
+  .content {
+        max-width: 50rem;
+    }
+}
