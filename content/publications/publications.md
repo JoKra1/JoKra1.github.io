@@ -17,6 +17,9 @@ tags: ["Scientific Output"]
 
 #### Posters
 
+- **Krause, J.**, Borst, J.P., & van Rij, J. (2023). What can Markov-switching models of pupil dilation and EEG time courses reveal about
+the cognitive events in word recognition? *Poster at AMLaP 2023*. [\[Abstract\]](/abstracts/amlap_2023_abstract.pdf) [\[Poster\]](/posters/amlap_2023_poster.pdf)
+
 - **Krause, J.**, Borst, J.P., & van Rij, J. (2023). Markov-switching models enable precise recovery of cognitive events from trial-level pupil dilation time courses. *Poster at MathPsych 2023*. [\[Abstract\]](/abstracts/mathpsych_2023_pupil_abstract.pdf) [\[Poster\]](/posters/mathpsych_2023_poster.pdf)
 
 - **Krause, J.**, Borst, J.P., & van Rij, J. (2023). Early Interaction Effects of Word Type and Frequency on Lexical Decision Processes. *Poster at 36th Annual Conference on Human Sentence Processing (HSP, previously CUNY).* [\[Abstract\]](/abstracts/hsp_2023_abstract.pdf) [\[Poster\]](/posters/hsp_2023_poster.pdf)
