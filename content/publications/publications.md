@@ -5,7 +5,26 @@ draft: false
 tags: ["Scientific Output"]
 ---
 
+## Articles
+
+### 2024
+
+- **Krause, J.**, van Rij, J., & Borst, J. P. (2024). Word Type and Frequency Effects on Lexical Decisions Are Process-dependent and Start Early. Journal of Cognitive Neuroscience, 1–24. [\[Article\]](https://doi.org/10.1162/jocn_a_02214)
+
 ## Conference Contributions
+
+### 2024
+
+#### Talks
+
+- **Krause, J.**, Borst, J.P., & van Rij, J. (2024). Massive generalized additive models of neurophysiological time-series. *Oral presentation at MathPsych 2024*. [\[Abstract\]](/abstracts/mathpsych_2024_abstract.pdf)
+
+- **Krause, J.**, Borst, J.P., & van Rij, J. (2024). Trial-level deconvolution of pupil time courses to discover cognitive events. *Oral presentation at the Dutch Symposium of Pupillometry*.
+
+
+#### Posters
+
+- **Krause, J.**, Borst, J.P., & van Rij, J. (2024). Recovering cognitive events from trial-level pupil time courses. *Poster at CogSci 2024*. [\[Abstract\]](/abstracts/cogsci_2024_abstract.pdf) [\[Poster\]](/posters/cogsci_2024_poster.pdf)
 
 ### 2023
 

@@ -16,8 +16,8 @@ I am currently in the first year of my PhD at the [University of Groningen's](ht
 
 My research interests are:
 
-- **Computational Neuroscience**
+- **Computational & Mathematical Neuroscience**
     - How can cognitive operations be inferred from brain-related signals in a data-driven fashion?
     - Which cognitive operations enable language comprehension & production?
 - **Statistics**
-    - In particular GLMMs, GAMMs & Hidden semi-Markov models!
+    - In particular smoothness selection for (sparse) GAMMs & GAMMLSS models and combining these with Hidden semi-Markov models (check out my Python toolbox [mssm](https://github.com/JoKra1/mssm/tree/main))!
